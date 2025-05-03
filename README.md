@@ -27,7 +27,7 @@ A smarter, AI-powered alternative to the traditional Windows Event Viewer.
 
 ## Overview
 
-**LogiSage** is an advanced event monitoring and analysis tool designed as a modern, AI-enhanced replacement for the default Windows Event Viewer. It offers real-time log collection, intuitive user interfaces, anomaly detection, and smart insights via AI.
+**SentraLogix** is an advanced event monitoring and analysis tool designed as a modern, AI-enhanced replacement for the default Windows Event Viewer. It offers real-time log collection, intuitive user interfaces, anomaly detection, and smart insights via AI.
 
 ## Project Objective
 
